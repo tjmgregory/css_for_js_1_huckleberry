@@ -4,6 +4,11 @@ In this workshop, you'll build a minimal landing page for an agency.
 
 This mockup is built entirely using _flow layout_: no Flexbox, no grid, no absolute positioning. It relies heavily on padding, margin, and border.
 
+## My finished product
+
+![image](https://user-images.githubusercontent.com/5040901/141853472-8ef7804d-5346-462b-9875-e20c7c4286d0.png)
+
+
 ## Mockups
 
 Desktop:
